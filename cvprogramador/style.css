@@ -1,0 +1,200 @@
+header{
+    justify-content: space-between;
+    background-color: rgb(8, 8, 92);
+    text-align: center;
+
+}
+.barra-navegacion {
+    text-align: center;
+}
+.red {
+    color: red;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.white {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;.
+}
+
+.encabezado {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+#head-icon1 {
+    width: 250px;
+}
+#head-icon2 {
+    width: 115px;
+}
+/PARTE SUPERIOR DE LA WEB/
+
+/*.titulouefa{
+    float: left;
+    width: 190px;
+    height: 90px;
+    color: white;
+    margin-left: 100px;
+}
+
+.logouefa{
+    float: right;
+    width: 90px;
+    height: 90px;
+    margin-right: 80px;
+}
+*/
+.contact{
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.hr{
+    border: none;
+    border-top: 2px solid black;
+    width: 100%;
+}
+.corrupt {  
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*PARTE CENTRAL DE LA PÁGINA WEB*/
+
+body {
+    margin: 10px;
+    margin-top: 20px;
+    padding: 0;
+    background-color:  #020b69;
+    color: white;
+}
+.container1{
+    background-color: rgb(12, 12, 73);
+    justify-content: space-around;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ford {
+    width: 200px;
+}
+#heineken {
+    width: 200px;
+}
+#mastercard {
+    width: 200px;
+}
+#playstation {
+    width: 200px;
+}
+#lays {
+    width: 200px;
+}
+.texto{
+    position: absolute;
+    top: 60%;
+    right: 3%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#europa{
+    height: 130vh;
+    background-size: cover;
+    margin: 0;
+    background-position: center;
+    background-image: url(EUROPA.jpg);
+}
+#yo{
+    position: absolute;
+    top: 70%;
+    left: 3%;
+    border: solid white 2px;
+    height: 310px;
+    width: 550px;
+}
+#sedeuefa{
+    position: absolute;
+    top: 70%;
+    right: 3%;
+    border: solid white 2px;
+}
+#cuadrofinal{
+    position: absolute;
+    top: 120%;
+    right: 3%;
+    border: solid white 2px;
+    height: 450px;
+    width: 552px;
+}
+/*PARTE INFERIOR DE LA WEB*/
+.container5{
+    
+    background-color: rgb(12, 12, 73);
+    justify-content: space-around;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#fedex {
+    width: 200px;
+}
+#gazprom {
+    width: 200px;
+}
+#turkish {
+    width: 200px;
+}
+#monster {
+    width: 200px;
+}
+#hotels {
+    width: 200px;
+}
+.texto10{
+    position: absolute;
+    top: 182%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.textocosas{
+    position: absolute;
+    top: 135%;
+    padding-left: 5%;
+    text-align: left;
+    font-size: 18px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/Parte inferior de la web/
